@@ -1,4 +1,4 @@
-# Experiment-6
+
 
 # Aim
 The aim of this C++ code is to demonstrate the use of various looping constructs and nested loops.
